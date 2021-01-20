@@ -6,5 +6,9 @@ public static void main(String[] args) {
 	System.out.println(age);
 	String s= "arul";
 	System.out.println(s);
+
+	String a="anu";
+	System.out.println(a);
+
 }
 }
